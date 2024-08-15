@@ -1,0 +1,11 @@
+.club {
+  background-color: rgb(139, 189, 191);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.5em;
+}
+.club-new {
+  background-color: rgb(234, 198, 198);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 2.5em;
+}
